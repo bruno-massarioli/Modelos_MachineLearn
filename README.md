@@ -6,14 +6,15 @@ Este repositório está dividido por sessões que  contém notebooks de modelos 
 O objetivo deste repositório é demonstrar a aplicação de técnicas de Machine Learning para problemas comuns, abordando os conceitos fundamentais e apresentando implementações práticas.
 
 ## Estrutura
-
-- **Sessão 1 - Classificação**: Implementação de modelos de classificação, como K-Nearest Neighbors (KNN), Árvores de Decisão, e SVM (Support Vector Machine).
-- **Sessão 2 - Regressão**: Aplicação de algoritmos de regressão, incluindo Regressão Linear e Árvores de Decisão para regressão.
-- **Sessão 3 - Redes Neurais**: Desenvolvimento de redes neurais para tarefas de classificação e regressão, usando uma abordagem simples e clara.
+- **Secão 1 - Pré-Processamento de dados**
+- **Seção 2 - Classificação**: Aprendizagem Bayesiana, Arvore de Decisão, Random Forest, Regras (OneR, PRISM, ORANGE), KNN, Regressão logistica,  
+- **Seção 3 - Regressão**: Regressão Linear Simples, Multipla,Polinomial, Arvores de Decisão, Random Forest, SVM, Redes Neurais.
+- **Seção 4 - Regras de Associação**: Algoritmo Apriori e ECLAT.
+- **Seção 4 - Agrupamentos**: k-means, hierarquico e  DBSCAN.
 
 ## Como Usar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/bruno-massarioli/modelos_machine_learning.git
+   git clone https://github.com/bruno-massarioli/Modelos_MachineLearn.git
 
