@@ -10,7 +10,7 @@ O objetivo deste repositório é demonstrar a aplicação de técnicas de Machin
 - **Seção 2 - Classificação**: Aprendizagem Bayesiana, Arvore de Decisão, Random Forest, Regras (OneR, PRISM, ORANGE), KNN, Regressão logistica,  
 - **Seção 3 - Regressão**: Regressão Linear Simples, Multipla,Polinomial, Arvores de Decisão, Random Forest, SVM, Redes Neurais.
 - **Seção 4 - Regras de Associação**: Algoritmo Apriori e ECLAT.
-- **Seção 4 - Agrupamentos**: k-means, hierarquico e  DBSCAN.
+- **Seção 5 - Agrupamentos**: k-means, hierarquico e  DBSCAN.
 
 ## Como Usar
 
